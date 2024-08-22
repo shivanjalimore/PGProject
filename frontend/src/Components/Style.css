@@ -1,0 +1,35 @@
+
+
+body {
+
+   
+    }
+
+    @keyframes gradient {
+        0% {
+            background-position: 0% 50%;
+        }
+        50% {
+            background-position: 100% 50%;
+        }
+        100% {
+            background-position: 0% 50%;
+        }
+    }
+
+    .row{
+        margin-top: -80px;
+    }
+
+    .errors{
+        color: red;
+        font-size: large;
+    }
+
+    .img{
+          height : 5rem;   
+    }
+
+    .trans{
+        background-color: rgb(50, 50, 50);
+    }

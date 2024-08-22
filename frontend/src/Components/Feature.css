@@ -1,0 +1,24 @@
+.teal {
+  background-color: #e0f7fa; /* Light blue */
+  border: 1px solid #b2ebf2;
+}
+
+.pink {
+  background-color: #f8bbd0; /* Light pink */
+  border: 1px solid #f48fb1;
+}
+
+.green {
+  background-color: #c8e6c9; /* Light green */
+  border: 1px solid #a5d6a7;
+}
+
+.red {
+  background-color: #ffcdd2; /* Light red */
+  border: 1px solid #ef9a9a;
+}
+
+.icon {
+  font-size: 36px;
+  color: #555;
+}
